@@ -15,4 +15,4 @@ Esse projeto utiliza javascript puro por afim de exercitar diversas teorias sobr
 • Regexp. \
 • Git flow. \
 • Utilização de ferramentas como Eslint, Webpack e Babel para auxiliar no desenvolvimento. \
-• Destructuring, rest, spread, loops, iterable objetcts, e muuuito mais... \
+• Destructuring, rest, spread, loops, iterable objetcts, e muuuito mais... 
