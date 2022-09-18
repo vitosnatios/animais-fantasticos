@@ -1,5 +1,7 @@
 # animais-fantasticos
 
+Live version: https://vitosnatios.github.io/animais-fantasticos/
+
 Projeto final do curso de Javascript completo do origamid.
 
 Esse projeto utiliza javascript puro por afim de exercitar diversas teorias sobre coisas como: \
@@ -13,4 +15,4 @@ Esse projeto utiliza javascript puro por afim de exercitar diversas teorias sobr
 • Regexp. \
 • Git flow. \
 • Utilização de ferramentas como Eslint, Webpack e Babel para auxiliar no desenvolvimento. \
-• Destructuring, rest, spread, loops, iterable objetcts, e muuuito mais...
+• Destructuring, rest, spread, loops, iterable objetcts, e muuuito mais... \
